@@ -194,8 +194,10 @@ http://127.0.0.1:8000/docs
 🧪 Example Query
 JSON
 {
-  "query": "What are symptoms of diabetes?"
+  "query": "What is diabetes?"
 }
+
+<img width="1118" height="645" alt="image" src="https://github.com/user-attachments/assets/73b38fa8-84ed-4eb4-8238-727de8f97fc4" />
 
 ⚠️ Challenges & Fixes
 
